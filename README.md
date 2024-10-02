@@ -11,7 +11,7 @@ Welcome to **Nestify**, an online marketplace for short- and long-term homestays
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
